@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1704.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mac_mapster", "mac_mapster\mac_mapster.csproj", "{A27C7450-53CF-4794-9463-41292845E101}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maui_mapster", "maui_mapster\maui_mapster.csproj", "{AFFDBE08-3551-4230-8971-9E46654DFE45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A27C7450-53CF-4794-9463-41292845E101}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A27C7450-53CF-4794-9463-41292845E101}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A27C7450-53CF-4794-9463-41292845E101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFFDBE08-3551-4230-8971-9E46654DFE45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFFDBE08-3551-4230-8971-9E46654DFE45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFFDBE08-3551-4230-8971-9E46654DFE45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFFDBE08-3551-4230-8971-9E46654DFE45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
