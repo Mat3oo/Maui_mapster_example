@@ -13,4 +13,12 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <CreatePackage>false</CreatePackage>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Mapster" Version="7.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Models\Models.csproj" />
+  </ItemGroup>
 </Project>
